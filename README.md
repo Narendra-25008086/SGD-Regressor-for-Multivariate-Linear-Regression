@@ -93,7 +93,9 @@ for actual, predicted in zip(y_test, y_pred):
 ```
 
 ## Output:
-![multivariate linear regression model for predicting the price of the house and number of occupants in the house](sam.png)
+
+![Uploading Screenshot 2026-04-28 191954.png…]()
+
 
 
 ## Result:
