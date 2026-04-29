@@ -91,7 +91,6 @@ print("\nActual vs Predicted:")
 for actual, predicted in zip(y_test, y_pred):
     print(f"Actual: {actual}, Predicted: {predicted.round(2)}")
 ```
-```
 
 ## Output:
 ![multivariate linear regression model for predicting the price of the house and number of occupants in the house](sam.png)
