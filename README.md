@@ -94,7 +94,8 @@ for actual, predicted in zip(y_test, y_pred):
 
 ## Output:
 
-![Uploading Screenshot 2026-04-28 191954.png…]()
+<img width="452" height="150" alt="Screenshot 2026-04-28 191954" src="https://github.com/user-attachments/assets/197fa0da-8573-40e5-bf12-e4418dfb92c4" />
+
 
 
 
